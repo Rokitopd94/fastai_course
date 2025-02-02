@@ -1,1 +1,0 @@
-# This is the excercise of lesson 2: deploy a DeepLearning model on a cloud platform or web service. In my case, I trained a bear identificator and I want to deploy it in HugginFace Spaces using gradio. 
