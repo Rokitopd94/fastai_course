@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# This is the excercise of lesson 2: deploy a DeepLearning model on a cloud platform or web service. In my case, I trained a bear identificator and I want to deploy it in HugginFace Spaces using gradio. 
+# This is the excercise of lesson 2: deploy a DeepLearning model on a cloud platform or web service. In my case, I trained a bear identificator and I deployed it in HugginFace Spaces using gradio. 
 
 Content of the files: 
 1. bear-classificator-app.ipynb: notebook where the model is loaded from a .pkl file and the inference function, to be deployed, is defined. Also, it contains the lunching of the model. 
@@ -11,6 +10,4 @@ Content of the files:
 4. app.py: inference function used in file number 1.   
 
 5. *.jpg: images of bears as per the name of the file. 
-=======
-# This is the excercise of lesson 2: deploy a DeepLearning model on a cloud platform or web service. In my case, I trained a bear identificator and I deployed it in HugginFace Spaces using gradio. 
->>>>>>> 44a50a5d306b7624e9e2bea75bb3abdbbdc931c3
+
