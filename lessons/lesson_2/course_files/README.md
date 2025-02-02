@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is the excercise of lesson 2: deploy a DeepLearning model on a cloud platform or web service. In my case, I trained a bear identificator and I want to deploy it in HugginFace Spaces using gradio. 
 
 Content of the files: 
@@ -10,3 +11,6 @@ Content of the files:
 4. app.py: inference function used in file number 1.   
 
 5. *.jpg: images of bears as per the name of the file. 
+=======
+# This is the excercise of lesson 2: deploy a DeepLearning model on a cloud platform or web service. In my case, I trained a bear identificator and I deployed it in HugginFace Spaces using gradio. 
+>>>>>>> 44a50a5d306b7624e9e2bea75bb3abdbbdc931c3
