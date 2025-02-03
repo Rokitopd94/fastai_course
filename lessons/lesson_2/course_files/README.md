@@ -9,5 +9,5 @@ Content of the files:
 
 4. app.py: inference function used in file number 1.   
 
-5. *.jp(e)g: images of bears of different breed. 
+5. *.jp(e)g: images of bears of different breeds. 
 
